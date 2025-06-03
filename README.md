@@ -6,3 +6,22 @@
 - code versioning for keeping changes under control.
 - code ownership by identifying who makes any part of the code.
 - Task management for dividing tasks for each team member.
+
+## Code of Conduct
+
+In order to ensure that everyone understand the subject, make sure everyone complete every 'Task Practice'.
+
+## License
+
+The IPE TP01 is open-sourced software license under the [MIT license] (https://opensource.org/licenses/MIT).
+
+## Example code
+
+Java code example:
+'''Java
+public class App {
+public static void main(String[] args) {
+System.out.println("Welcome to IPE TP01.);
+}
+}
+'''
